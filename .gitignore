@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+.venv/
+include/
+lib/
+scripts/
+pyvenv.cfg
+
+# Distribution / Packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# IDE / Editors
+.idea/  # For JetBrains IDEs like PyCharm
+.vscode/  # For Visual Studio Code
+
+# Operating System
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
+
+# Flask instance folder if you use Flask
+instance/
+
+# SQLite database files if used in future
+*.sqlite
+*.sqlite3
