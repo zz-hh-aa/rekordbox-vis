@@ -1,0 +1,21 @@
+:root {
+    --p-font: arial;
+  }
+
+body {
+    /* background-color: blue; */
+    font-family: var(--p-font);
+}
+
+#body-content {
+    height: 80rem;
+    width: 80%;
+    margin: 2% auto;
+    /* background-color: yellow; */
+}
+
+footer {
+    width: 80%;
+    margin: 2% auto;
+    /* background-color: orange; */
+}
